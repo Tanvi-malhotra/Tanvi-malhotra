@@ -1,7 +1,7 @@
 ### Hi there!👋
 
 <p>My name is Tanvi Malhotra. I am a junior at ASU from New Delhi, India. I find extreme joy in learning something new every day and creating for I am a curious artist at heart. I am double majoring in the dynamic blend of Human Systems Engineering (User Experience) and Psychology and embarking on this captivating journey to delve into the intricate relationship between the human mind and technological systems to create and design to cater to distinct human needs.</p>
-<p>🌱 Checkout my artwork on my [Behance profile](https://www.behance.net/tanvimalhotra2)</p>
+🌱 Checkout my artwork on my [Behance profile](https://www.behance.net/tanvimalhotra2)
 
 <!--
 **Tanvi-malhotra/Tanvi-malhotra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
